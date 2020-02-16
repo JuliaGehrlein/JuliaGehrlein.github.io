@@ -168,7 +168,19 @@
   </url>
   
   <url>
+    <loc>/publication/dm_numass/</loc>
+  </url>
+  
+  <url>
     <loc>/courses/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/julia-gehrlein/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/mathias-pierre/</loc>
   </url>
   
 </urlset>

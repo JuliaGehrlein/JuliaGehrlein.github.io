@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Julia Gehrlein | Academic</title>
+    <link>/authors/julia-gehrlein/</link>
+      <atom:link href="/authors/julia-gehrlein/index.xml" rel="self" type="application/rss+xml" />
+    <description>Julia Gehrlein</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Julia Gehrlein</title>
+      <link>/authors/julia-gehrlein/</link>
+    </image>
+    
+    <item>
+      <title>A testable hidden-sector model for Dark Matter and neutrino masses</title>
+      <link>/publication/dm_numass/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/dm_numass/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
