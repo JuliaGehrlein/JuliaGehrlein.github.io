@@ -131,6 +131,10 @@
   </url>
   
   <url>
+    <loc>/publication/bivo/</loc>
+  </url>
+  
+  <url>
     <loc>/courses/</loc>
   </url>
   
@@ -143,11 +147,19 @@
   </url>
   
   <url>
+    <loc>/authors/patrick-j.-fox/</loc>
+  </url>
+  
+  <url>
     <loc>/publication_types/</loc>
   </url>
   
   <url>
     <loc>/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/seyda-ipek/</loc>
   </url>
   
   <url>
