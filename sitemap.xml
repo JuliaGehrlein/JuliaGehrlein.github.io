@@ -33,6 +33,51 @@
   </url>
   
   <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2019-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/dm_numass/</loc>
+    <lastmod>2019-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2019-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/julia-gehrlein/</loc>
+    <lastmod>2019-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/mathias-pierre/</loc>
+    <lastmod>2019-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/source-themes/</loc>
+    <lastmod>2019-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/talk/bnlhet19/</loc>
     <lastmod>2020-02-16T10:32:15-05:00</lastmod>
   </url>
@@ -53,11 +98,6 @@
   </url>
   
   <url>
-    <loc>/authors/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
@@ -73,12 +113,22 @@
   </url>
   
   <url>
-    <loc>/publication/type2ss/</loc>
-    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
+    <loc>/publication/bivo/</loc>
+    <lastmod>2019-01-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/2/</loc>
+    <loc>/authors/patrick-j.-fox/</loc>
+    <lastmod>2019-01-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/seyda-ipek/</loc>
+    <lastmod>2019-01-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/type2ss/</loc>
     <lastmod>2018-04-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -88,38 +138,38 @@
   </url>
   
   <url>
-    <loc>/authors/julia-gehrlein/</loc>
-    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/pedro-a.-n.-machado/</loc>
     <lastmod>2018-04-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/source-themes/</loc>
-    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/yuber-f.-perez-gonzalez/</loc>
     <lastmod>2018-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/ic_sterile/</loc>
+    <lastmod>2018-03-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/enrique-fernandez-martinez/</loc>
+    <lastmod>2018-03-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jordi-salvado/</loc>
+    <lastmod>2018-03-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/josu-hernandez-garcia/</loc>
+    <lastmod>2018-03-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/mattias-blennow/</loc>
+    <lastmod>2018-03-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -168,47 +218,7 @@
   </url>
   
   <url>
-    <loc>/publication/ic_sterile/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication/dm_numass/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication/bivo/</loc>
-  </url>
-  
-  <url>
     <loc>/courses/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/enrique-fernandez-martinez/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/jordi-salvado/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/josu-hernandez-garcia/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/mathias-pierre/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/mattias-blennow/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/patrick-j.-fox/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/seyda-ipek/</loc>
   </url>
   
 </urlset>
