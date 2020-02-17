@@ -123,6 +123,10 @@
   </url>
   
   <url>
+    <loc>/publication/type2ss/</loc>
+  </url>
+  
+  <url>
     <loc>/publication_types/2/</loc>
   </url>
   
@@ -139,6 +143,10 @@
   </url>
   
   <url>
+    <loc>/authors/dorival-goncalves/</loc>
+  </url>
+  
+  <url>
     <loc>/authors/julia-gehrlein/</loc>
   </url>
   
@@ -148,6 +156,10 @@
   
   <url>
     <loc>/authors/patrick-j.-fox/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/pedro-a.-n.-machado/</loc>
   </url>
   
   <url>
@@ -164,6 +176,10 @@
   
   <url>
     <loc>/tags/source-themes/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/yuber-f.-perez-gonzalez/</loc>
   </url>
   
 </urlset>
