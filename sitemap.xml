@@ -73,6 +73,56 @@
   </url>
   
   <url>
+    <loc>/publication/type2ss/</loc>
+    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/dorival-goncalves/</loc>
+    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/julia-gehrlein/</loc>
+    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/pedro-a.-n.-machado/</loc>
+    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/source-themes/</loc>
+    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/yuber-f.-perez-gonzalez/</loc>
+    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
@@ -95,11 +145,6 @@
   <url>
     <loc>/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -127,14 +172,6 @@
   </url>
   
   <url>
-    <loc>/publication/type2ss/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication_types/2/</loc>
-  </url>
-  
-  <url>
     <loc>/publication/dm_numass/</loc>
   </url>
   
@@ -144,10 +181,6 @@
   
   <url>
     <loc>/courses/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/dorival-goncalves/</loc>
   </url>
   
   <url>
@@ -163,10 +196,6 @@
   </url>
   
   <url>
-    <loc>/authors/julia-gehrlein/</loc>
-  </url>
-  
-  <url>
     <loc>/authors/mathias-pierre/</loc>
   </url>
   
@@ -179,27 +208,7 @@
   </url>
   
   <url>
-    <loc>/authors/pedro-a.-n.-machado/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-  </url>
-  
-  <url>
     <loc>/authors/seyda-ipek/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/source-themes/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/yuber-f.-perez-gonzalez/</loc>
   </url>
   
 </urlset>
