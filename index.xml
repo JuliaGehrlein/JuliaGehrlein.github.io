@@ -71,14 +71,6 @@
     </item>
     
     <item>
-      <title>Neutrino windows to new physics</title>
-      <link>/talk/bnlhet/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/talk/bnlhet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Writing technical content in Academic</title>
       <link>/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
@@ -681,14 +673,6 @@ Three
 &lt;p&gt;Released under the 
 &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title> CEvNS gate to new phyics</title>
-      <link>/talk/fnal2020/</link>
-      <pubDate>Mon, 18 Jun 2001 00:00:00 +0000</pubDate>
-      <guid>/talk/fnal2020/</guid>
-      <description></description>
     </item>
     
   </channel>
