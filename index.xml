@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Julia Gehrlein</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 18 Jan 2020 20:03:18 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 07 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Julia Gehrlein</title>
@@ -55,6 +55,30 @@
     </item>
     
     <item>
+      <title>Leptonic Sum Rules fromFlavour Models with Modular Symmetries</title>
+      <link>/publication/modular_sr/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/modular_sr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CP-Violating Neutrino Non-Standard Interactions in Long-Baseline-Accelerator Data</title>
+      <link>/publication/nova_t2k/</link>
+      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/nova_t2k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attractive scenario for light dark matter direct detection</title>
+      <link>/publication/attractive_dm/</link>
+      <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/attractive_dm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title> CEvNS gate to new physics</title>
       <link>/talk/fnal2020/</link>
       <pubDate>Sat, 18 Jan 2020 20:03:18 -0500</pubDate>
@@ -67,6 +91,30 @@
       <link>/project/bnlnuclub/</link>
       <pubDate>Wed, 01 Jan 2020 11:00:00 +0000</pubDate>
       <guid>/project/bnlnuclub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early career liaison for the neutrino theory and neutrino BSM groups for Snowmass2021</title>
+      <link>/project/snowmass/</link>
+      <pubDate>Wed, 01 Jan 2020 11:00:00 +0000</pubDate>
+      <guid>/project/snowmass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Member of organization committee for NuTau 2021</title>
+      <link>/project/nutau/</link>
+      <pubDate>Wed, 01 Jan 2020 11:00:00 +0000</pubDate>
+      <guid>/project/nutau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Various outreach projects</title>
+      <link>/project/outreach/</link>
+      <pubDate>Wed, 01 Jan 2020 11:00:00 +0000</pubDate>
+      <guid>/project/outreach/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hooman Davoudiasl | Julia Gehrlein</title>
+    <link>/authors/hooman-davoudiasl/</link>
+      <atom:link href="/authors/hooman-davoudiasl/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hooman Davoudiasl</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 09 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Hooman Davoudiasl</title>
+      <link>/authors/hooman-davoudiasl/</link>
+    </image>
+    
+    <item>
+      <title>Attractive scenario for light dark matter direct detection</title>
+      <link>/publication/attractive_dm/</link>
+      <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/attractive_dm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

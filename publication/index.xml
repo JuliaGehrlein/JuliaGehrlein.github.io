@@ -5,12 +5,36 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 07 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/publication/featured.jpg</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Leptonic Sum Rules fromFlavour Models with Modular Symmetries</title>
+      <link>/publication/modular_sr/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/modular_sr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CP-Violating Neutrino Non-Standard Interactions in Long-Baseline-Accelerator Data</title>
+      <link>/publication/nova_t2k/</link>
+      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/nova_t2k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attractive scenario for light dark matter direct detection</title>
+      <link>/publication/attractive_dm/</link>
+      <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/attractive_dm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A testable hidden-sector model for Dark Matter and neutrino masses</title>

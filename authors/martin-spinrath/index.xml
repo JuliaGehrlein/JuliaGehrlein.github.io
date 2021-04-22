@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication_types | Julia Gehrlein</title>
-    <link>/publication_types/</link>
-      <atom:link href="/publication_types/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publication_types</description>
+    <title>Martin Spinrath | Julia Gehrlein</title>
+    <link>/authors/martin-spinrath/</link>
+      <atom:link href="/authors/martin-spinrath/index.xml" rel="self" type="application/rss+xml" />
+    <description>Martin Spinrath</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 07 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Publication_types</title>
-      <link>/publication_types/</link>
+      <title>Martin Spinrath</title>
+      <link>/authors/martin-spinrath/</link>
     </image>
     
     <item>
-      <title>2</title>
-      <link>/publication_types/2/</link>
+      <title>Leptonic Sum Rules fromFlavour Models with Modular Symmetries</title>
+      <link>/publication/modular_sr/</link>
       <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/publication_types/2/</guid>
+      <guid>/publication/modular_sr/</guid>
       <description></description>
     </item>
     

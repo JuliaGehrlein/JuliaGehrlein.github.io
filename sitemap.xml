@@ -18,12 +18,82 @@
   </url>
   
   <url>
-    <loc>/talk/fnal2020/</loc>
-    <lastmod>2020-02-17T20:03:18-05:00</lastmod>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/julia-gehrlein/</loc>
+    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/modular_sr/</loc>
+    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/martin-spinrath/</loc>
+    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/source-themes/</loc>
+    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/nova_t2k/</loc>
+    <lastmod>2020-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/peter-b.-denton/</loc>
+    <lastmod>2020-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/rebekah-pestes/</loc>
+    <lastmod>2020-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/attractive_dm/</loc>
+    <lastmod>2020-07-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/hooman-davoudiasl/</loc>
+    <lastmod>2020-07-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/fnal2020/</loc>
     <lastmod>2020-02-17T20:03:18-05:00</lastmod>
   </url>
   
@@ -38,13 +108,23 @@
   </url>
   
   <url>
+    <loc>/project/snowmass/</loc>
+    <lastmod>2020-01-01T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/nutau/</loc>
+    <lastmod>2020-01-01T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/project/</loc>
     <lastmod>2020-01-01T11:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2019-12-13T00:00:00+00:00</lastmod>
+    <loc>/project/outreach/</loc>
+    <lastmod>2020-01-01T11:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -53,37 +133,7 @@
   </url>
   
   <url>
-    <loc>/authors/</loc>
-    <lastmod>2019-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/julia-gehrlein/</loc>
-    <lastmod>2019-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/mathias-pierre/</loc>
-    <lastmod>2019-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2019-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2019-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/source-themes/</loc>
-    <lastmod>2019-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2019-12-13T00:00:00+00:00</lastmod>
   </url>
   
