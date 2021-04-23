@@ -33,23 +33,53 @@
   </url>
   
   <url>
-    <loc>/talk/bnl_colloq/</loc>
-    <lastmod>2020-12-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication_types/2/</loc>
-    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/julia-gehrlein/</loc>
-    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/bivo_llp/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/seyda-ipek/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/source-themes/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/bnl_colloq/</loc>
+    <lastmod>2020-12-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -59,26 +89,6 @@
   
   <url>
     <loc>/authors/martin-spinrath/</loc>
-    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/source-themes/</loc>
-    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-12-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -108,12 +118,17 @@
   </url>
   
   <url>
-    <loc>/publication/nova_t2k/</loc>
-    <lastmod>2020-08-03T00:00:00+00:00</lastmod>
+    <loc>/publication/cevns/</loc>
+    <lastmod>2020-08-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/peter-b.-denton/</loc>
+    <lastmod>2020-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/nova_t2k/</loc>
     <lastmod>2020-08-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -229,11 +244,6 @@
   
   <url>
     <loc>/authors/patrick-j.-fox/</loc>
-    <lastmod>2019-01-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/seyda-ipek/</loc>
     <lastmod>2019-01-29T00:00:00+00:00</lastmod>
   </url>
   

@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 07 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -15,8 +15,16 @@
     <item>
       <title>Julia Gehrlein</title>
       <link>/authors/julia-gehrlein/</link>
-      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       <guid>/authors/julia-gehrlein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seyda Ipek</title>
+      <link>/authors/seyda-ipek/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/seyda-ipek/</guid>
       <description></description>
     </item>
     
@@ -31,7 +39,7 @@
     <item>
       <title>Peter B. Denton</title>
       <link>/authors/peter-b.-denton/</link>
-      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
       <guid>/authors/peter-b.-denton/</guid>
       <description></description>
     </item>
@@ -75,14 +83,6 @@ Fisica Teorica UAM-CSIC in Madrid, Spain, where I was funded by the Marie Curie 
       <link>/authors/patrick-j.-fox/</link>
       <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/authors/patrick-j.-fox/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Seyda Ipek</title>
-      <link>/authors/seyda-ipek/</link>
-      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/seyda-ipek/</guid>
       <description></description>
     </item>
     
