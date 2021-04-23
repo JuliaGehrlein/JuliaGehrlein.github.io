@@ -28,12 +28,12 @@
   </url>
   
   <url>
-    <loc>/authors/julia-gehrlein/</loc>
+    <loc>/</loc>
     <lastmod>2020-12-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/authors/julia-gehrlein/</loc>
     <lastmod>2020-12-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -68,6 +68,16 @@
   </url>
   
   <url>
+    <loc>/talk/bnl_het20/</loc>
+    <lastmod>2020-09-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2020-09-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/nova_t2k/</loc>
     <lastmod>2020-08-03T00:00:00+00:00</lastmod>
   </url>
@@ -94,11 +104,6 @@
   
   <url>
     <loc>/talk/fnal2020/</loc>
-    <lastmod>2020-02-17T20:03:18-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
     <lastmod>2020-02-17T20:03:18-05:00</lastmod>
   </url>
   
