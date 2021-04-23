@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Julia Gehrlein</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 07 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 20 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Julia Gehrlein</title>
@@ -55,10 +55,50 @@
     </item>
     
     <item>
+      <title>CEνNS gate to new physics</title>
+      <link>/talk/fnal_neutrino/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      <guid>/talk/fnal_neutrino/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The quest for θ13 -A theoretical perspective-</title>
+      <link>/talk/bnl_colloq/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/bnl_colloq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Leptonic Sum Rules from Flavour Models with Modular Symmetries</title>
       <link>/publication/modular_sr/</link>
       <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
       <guid>/publication/modular_sr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Leptonic sum rules from flavour models</title>
+      <link>/talk/bnl_hetnov2020/</link>
+      <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/bnl_hetnov2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CEνNS gate to new physics</title>
+      <link>/talk/washu/</link>
+      <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/washu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CEνNS gate to new physics</title>
+      <link>/talk/vtech/</link>
+      <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/vtech/</guid>
       <description></description>
     </item>
     
@@ -91,6 +131,14 @@
       <link>/talk/fnal2020/</link>
       <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
       <guid>/talk/fnal2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CP violation at long baseline experiments</title>
+      <link>/talk/northwestern/</link>
+      <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/northwestern/</guid>
       <description></description>
     </item>
     
@@ -131,6 +179,14 @@
       <link>/publication/dm_numass/</link>
       <pubDate>Fri, 13 Dec 2019 00:00:00 +0000</pubDate>
       <guid>/publication/dm_numass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CP violation at long baseline experiments</title>
+      <link>/talk/ucla/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/ucla/</guid>
       <description></description>
     </item>
     
